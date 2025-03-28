@@ -3,4 +3,10 @@
 
 [Full version of the project](https://medium.com/@milabunyak79/comparative-analysis-of-the-ukrainian-it-market-over-the-last-4-years-79971264a922)
 
+<details>
+  <summary>💡 Key Insights</summary>
+
+  - The most successful month for sales is November ($352461.07 Total_sales)
+  - Sales dropped in 2019($0,47M), but from 2019 to 2021($0,73M) they grew, as did the number of checks.
+</details>
 
