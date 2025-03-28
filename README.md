@@ -10,5 +10,6 @@
   - Sales dropped in 2019($0,47M), but from 2019 to 2021($0,73M) they grew, as did the number of checks.
 </details>
 
-## Comparative analysis of the IT market of Ukraine and the world 
-https://github.com/HellenOk/Czechitas_project/blob/main/Screenshot_1.png
+### Comparative analysis of the IT market of Ukraine and the world 
+
+![image](https://github.com/HellenOk/Czechitas_project/blob/main/Screenshot_1.png)
